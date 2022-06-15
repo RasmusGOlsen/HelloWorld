@@ -8,5 +8,6 @@ The application can be used as a template for **CLI** applications.
 This example inlcudes *logging* and *argument parsing*.
 
 ## Links
-- [Source: https://github.com/RasmusGOlsen/HelloWorld](https://github.com/RasmusGOlsen/HelloWorld)
-- [Tracker: https://github.com/RasmusGOlsen/HelloWorld/issues](https://github.com/RasmusGOlsen/HelloWorld/issues)
+- [Documentation: http://rasmusgolsenhelloworld.readthedocs.io](http://rasmusgolsenhelloworld.readthedocs.io)
+- [GitHub Project: https://github.com/RasmusGOlsen/HelloWorld](https://github.com/RasmusGOlsen/HelloWorld)
+- [Issue Tracker: https://github.com/RasmusGOlsen/HelloWorld/issues](https://github.com/RasmusGOlsen/HelloWorld/issues)
